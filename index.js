@@ -3,4 +3,4 @@ main.remove()
 
 const newHeader = document.createElement("h1");
 newHeader.id="victory"
-newHeader.innerHTML="Bill is the champion"
+newHeader.textContent="Bill is the champion"
